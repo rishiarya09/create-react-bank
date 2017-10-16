@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+
+.App-header {
+  background-color: #e3e8ef;
+  height: 100px;
+  padding-left: 50px;
+  color: #222
+}
+.nav{
+	padding-top: 40px;
+	padding-left: 800px;
+	text-decoration: none;
+	color: blue;
+	font-size: 20px;
+}
+.img{padding-top: 25px;
+  height: 70px;
+  display: block;
+}
+.img1{
+  align-content: center;
+}
+.App-intro {
+  font-size: large;
+}
